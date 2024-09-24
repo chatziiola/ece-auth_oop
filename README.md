@@ -1,5 +1,8 @@
 # Battlecp(p)
-![Successfully graded](https://img.shields.io/badge/Successfully_graded-%E2%9C%94%EF%B8%8F-green) ![Course Passed](https://img.shields.io/badge/Course_passed-%E2%9C%94%EF%B8%8F-green) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-blue?style=for-the-badge)
+![Successfully Graded](https://img.shields.io/badge/Successfully%20Graded-%E2%9C%94%EF%B8%8F-green?style=for-the-badge)
+![Course Passed](https://img.shields.io/badge/Course%20Passed-%E2%9C%94%EF%B8%8F-green?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-blue?style=for-the-badge)
 
 <img src="battlecpp-dalle.png" width="50%"/>
 
